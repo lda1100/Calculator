@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/b3"
+        android:title="进制"/>
+
+
+    <item
+        android:id="@+id/b4"
+        android:title="普通"/>
+    <item
+        android:id="@+id/b8"
+        android:title="单位"/>
+
+
+</menu>
